@@ -1085,3 +1085,14 @@ iconify-icon {
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
+
+/* Independent developer profile */
+.team .team-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 320px);
+    justify-content: center;
+}
+
+.team .employee-card {
+    width: 100%;
+}

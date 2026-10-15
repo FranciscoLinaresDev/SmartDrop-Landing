@@ -37,18 +37,20 @@ const translations = {
             temperatureDesc: "Asegura umbrales críticos con alertas inteligentes."
         },
         about: {
-            title: "Sobre Nosotros",
-            subtitle: "Una descripción simple. Un equipo dinámico enfocado en tecnología brindando una solución adaptada para control eficiente y confiable de recursos hídricos.",
+            title: "Sobre el Proyecto",
+            subtitle: "SmartDrop es un proyecto de software desarrollado de manera independiente por Francisco Javier Uribe Linares, enfocado en la gestión inteligente y el monitoreo de recursos hídricos.",
             mission: "Misión",
             missionDesc: "Hacer la gestión de líquidos accesible y eficiente.",
             reliability: "Confiabilidad",
             reliabilityDesc: "Sensores e infraestructura confiables con 99.9% de tiempo de actividad.",
             customerFocus: "Enfoque al Cliente",
             customerFocusDesc: "Soporte premium, incorporación global y mejoras continuas."
+
         },
+
         team: {
-            title: "Nuestro Equipo",
-            subtitle: "Cinco pilares impulsando SmartDrop"
+            title: "Conoce al Desarrollador",
+            subtitle: "Diseñado y desarrollado de manera independiente por Francisco Javier Uribe Linares."
         },
         solutions: {
             title: "Soluciones por segmentos - ROI & Casos de Uso",
@@ -182,8 +184,8 @@ const translations = {
             temperatureDesc: "Ensure critical thresholds with smart alerts."
         },
         about: {
-            title: "About Us",
-            subtitle: "A simple description. A dynamic tech-focused team bringing a solution tailored for efficient, reliable water resource control.",
+            title: "About the Project",
+            subtitle: "SmartDrop is an independently developed software project by Francisco Javier Uribe Linares, focused on intelligent water resource management and monitoring.",
             mission: "Mission",
             missionDesc: "Make liquid management accessible and efficient.",
             reliability: "Reliability",
@@ -192,8 +194,8 @@ const translations = {
             customerFocusDesc: "Premium support, global onboarding, and continuous improvements."
         },
         team: {
-            title: "Our Team",
-            subtitle: "Five pillars powering SmartDrop"
+            title: "Meet the Developer",
+            subtitle: "Independently designed and developed by Francisco Javier Uribe Linares."
         },
         solutions: {
             title: "Solutions by segments - ROI & Use Cases",
